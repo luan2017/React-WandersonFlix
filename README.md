@@ -13,12 +13,21 @@
 Após baixar o projeto, acesse ele via seu terminal rode os comandos:
 
 ```sh
-npm install
-npm start
+yarn | npm install
+yarn start  | npm start
 ```
 
+## Técnologias usadas?
+ - React Js - Biblioteca que facilita na componentização e organização do projeto.
+ - Styled Components - Lib usada para estilização dos componentes do projeto.
+ - JavaScript - Linguagem de programação.
+
+
+## Acesse a versão Web!
+ ##### WandersonFlix:   https://react-wanderson-flix.vercel.app/
+
 ## History
-Da uma olhada na aba [Releases](https://github.com/omariosouto/pokedex/releases) pra acompanhar as alterações feitas no projeto.
+Da uma olhada na aba [Releases](https://github.com/luan2017/React-WandersonFlix/commits/master) pra acompanhar as alterações feitas no projeto.
 
 ## License/Licença do Projeto
 [MIT License](./LICENSE) © [Alura](http://alura.com.br/)
