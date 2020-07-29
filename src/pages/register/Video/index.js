@@ -7,12 +7,9 @@ function RegisterVideo() {
     return(
         <PageDefault>
             <h1>cadastro de Vídeo</h1>
-
-            <Link to="/cadastro/categoria">
-              <Button>
-                Cadastrar Categoria
-              </Button>
-            </Link>
+            <Button as={Link} to="/cadastro/categoria">
+               Cadastrar Categoria
+             </Button>
         </PageDefault>
     )
 }
